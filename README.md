@@ -1,2 +1,5 @@
 # MultiLayerPerceptron
-MultiLayerPerceptron with momentum, weight decay,model selection, k-Fold Cross Validation, save Plot
+=========
+MultiLayerPerceptron with momentum and weight decay.
+
+Model Selection, k-Fold Cross Validation, save Plot
